@@ -10,6 +10,7 @@ Many people are searching for work, and many people need workers. They just can'
 We solve this problem through location-based matching, profile ratings, and direct communication.
 
 ✨ Key Features
+
 ✅ Live Map Integration: See available jobs or workers around you in real-time.
 
 ✅ Worker Profiles: List your skills and build your reputation through client feedback.
