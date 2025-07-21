@@ -25,25 +25,22 @@ We solve this problem through location-based matching, profile ratings, and dire
 
 🛠️ Tech Stack
 📱 Frontend
-Android SDK
 
+Android SDK
 Java & XML (UI/UX)
 
 🔥 Backend
 Firebase Realtime Database
-
 Firebase Firestore
-
 SQLite (Local Storage)
 
 🛠️ Tools
 Android Studio
-
 Figma (UI/UX Design)
-
 GitHub (Version Control)
 
 📲 How It Works
+
 For Workers:
 Sign up and create your profile.
 
